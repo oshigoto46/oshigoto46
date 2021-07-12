@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm japanese engineer an enthusiast for coding👋
 
 <!--
 **oshigoto46/oshigoto46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
